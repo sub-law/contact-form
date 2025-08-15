@@ -28,7 +28,7 @@ sudo chown shiny:shiny /home/shiny/coachtech/laravel/contact-form/src/app/Http/C
 ※この後パスワード入力
 
 **4. index.blade.phpがブラウザに表示されない問題**
-**原因、.env内がSESSION_DRIVER=fileとなっていたため**
+**原因、.env内の設定がSESSION_DRIVER=fileとなっていたため**
 **Laravel がアクセスできるようにしておく必要があった**
 **確認コマンド**
 ターミナル
