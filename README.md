@@ -45,3 +45,5 @@ sudo chown -R www-data:www-data /home/shiny/coachtech/laravel/contact-form/src/s
 **解決方法：所有者の変更（ターミナル）** 
 sudo chown shiny:shiny /home/shiny/coachtech/laravel/contact-form/src/database/migrations/2025_08_16_085552_create_contacts_table.php
 ※この後パスワード入力
+
+学習終了20時間
